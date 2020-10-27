@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 2623,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-windows-azure-sql-database-(and-server)-with-firewall-rule/master/CreateSQLServerDatabaseFirewall.ps1",
+    "DownloadCount": 2317,
+    "Id": "Create-a-Windows-Azure-SQL-cddcb195",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 321,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a SQL Server with a firewall rule in a sub region. Once server is created then create a database on the server.",
+    "Title": "Create a Windows Azure SQL Database (and Server) with Firewall Rule",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/create-a-windows-azure-sql-database-(and-server)-with-firewall-rule",
+    "UserTags": "Provisioning"
+}
